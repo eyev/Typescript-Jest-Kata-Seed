@@ -9,4 +9,16 @@
 `npm start <name of test>` (per describe block)
 
 
-ie: `npm start subtract`
+ie: `npm start subtract`    
+
+## Watch a specific Kata unit test
+
+`npm run watch <name of test>`
+
+
+ie: `npm run watch subtract`
+
+
+## Watch All tests
+
+`npm run watch-all`
